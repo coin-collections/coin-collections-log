@@ -1,0 +1,26 @@
+body {
+    background-color: green;
+}
+
+#master {
+    background-image: url("../imgs/backtile.png");
+    border-radius: 15px;
+    border-style: solid;
+    padding: 20px;
+    align-items: center;
+    margin: auto;
+    
+}
+
+#heading {
+    margin-top: -25px;
+    text-align: center;
+}
+
+.homepagedivider {
+    border: 1px solid black;
+}
+
+#showcase {
+    width: 30%;
+}
